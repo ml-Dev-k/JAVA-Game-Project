@@ -5,6 +5,6 @@ public class Personnage {
     private String nomImage;
     private String[] dialogue;
     private String description;
-    private Object[] listeObjet;
+    //private Object[] listeObjet;
 
 }
